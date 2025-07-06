@@ -11,7 +11,7 @@
 > 여기에 새로운 리뷰를 추가하실 때마다 목록을 업데이트해 보세요!
 
 ### Question Generation (QG)
-* [Generative Language Models for Paragraph-Level Question Generation (Ushio et al., 2022)](./Generative-LM-for-QG-Review.md)
+* [Generative Language Models for Paragraph-Level Question Generation (Ushio et al., 2022)](./AIG/Generative-LM-for-QG-Review.md)
 
 ### Large Language Models (LLM)
 
